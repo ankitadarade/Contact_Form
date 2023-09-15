@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767643152979",
+    "firebase_url": "https://contactinfo-f6b3b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "contactinfo-f6b3b",
+    "storage_bucket": "contactinfo-f6b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767643152979:android:a0f4c5242b48b9982d0ca6",
+        "android_client_info": {
+          "package_name": "com.example.contact__form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtvNCuNS6oqJZ0Ma1azEyLMRY9MUhB5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
